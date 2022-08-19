@@ -1,0 +1,97 @@
+body {
+    background-color: rgb(22, 7, 34);
+  }
+
+.countainer-judul {
+    width: 600px;
+    height: 15px;
+    background-color: rgb(65, 167, 226);
+    padding: 30px 20px;
+    border-radius: 20px;
+  }
+
+.countainer-body {
+    width: 700px;
+    height: 800px;
+    background-color: rgb(22, 36, 44);
+    padding: 30px 20px;
+    border-radius: 10px;
+    margin-top: 20px;
+  }
+
+.body-head {
+    width: 700px;
+    height: 15px;
+    background-color: rgb(73, 45, 100);
+    padding: 32px 20px;
+    border-radius: 8px;
+    margin-top: -30px;
+    margin-left: -20px;
+  
+  }
+
+.search {
+    width: 200px;
+    color: rgb(235, 235, 235);;
+    height: 1px;
+    background-color: rgb(17, 17, 17);
+    padding: 18px;
+    border-radius: 8px;
+    margin-top: -400px;
+    margin-left: 500px;
+    box-shadow: none;
+  
+  }
+
+.opening-text {
+    font-family: system-ui;
+    margin: auto;
+    text-align: center;
+    font-size: 18px;
+    color: rgb(247, 235, 212);
+  }
+
+.judul-body {
+    font-family: system-ui;
+    font-size: 18px;
+    color: rgb(247, 235, 212);
+  }
+
+.body-judul {
+    padding: 32px 20px;
+    border-radius: 8px;
+    margin-top: -83px;
+    margin-left: -20px;
+  
+  }
+
+.onepiece {
+    margin-top: 10px;
+  }
+  
+.judul-one-piece {
+    font-family: system-ui;
+    color: rgb(247, 235, 212);
+  }
+
+.img-one-piece {
+    border-radius: 10px;
+    width: 350px;
+  }
+
+.back {
+    width: 100px;
+    background-color: rgb(22, 36, 44);
+    padding: 15px;
+    border-radius: 8px;
+    margin-top: -652px;
+    margin-left: -579px;
+  
+  }
+
+.text-back {
+    font-family: system-ui;
+    font-size: 13px;
+    color: rgb(247, 235, 212);
+    margin-top: px;
+  }
